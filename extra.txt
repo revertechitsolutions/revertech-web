@@ -1,0 +1,71 @@
+<section  id="support-section" class="support-section section text-center">
+    <h2  style="font-size: 50px; font-weight:normal" class="block-heading text-center">Testimonials</h2>
+    <p style="font-size: 16px;" >Hear what our students have to say...</p>
+    <div id="reviews-carousel" class="container reviews-carousel carousel slide" data-ride="carousel">
+        <!--//wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="carousel-item item active">
+                <blockquote class="review center-block">
+                    
+                    <p style="font-size: 20px;"><i class="fas fa-quote-left" ></i>Productive classes, good interations & informative sessions</p>
+                </blockquote><!--//review-->
+                <div class="source">
+                    <div class="rating">
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                    </div><!--//rating-->
+                    <!-- <img class="profile" src="assets/images/users/user-1.png" alt="" /> -->
+                    <div style="font-size: 25px;" class="name">John Benild, RIT</div>
+                </div><!--//source-->    
+            </div><!--//item-->
+            
+            <div class="carousel-item item">
+                <blockquote class="review center-block">
+                    <i class="fas fa-quote-left" ></i>
+                    <p style="font-size: 20px;">A great way to Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                </blockquote><!--//review-->
+                <div class="source">
+                    <div class="rating">
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                    </div><!--//rating-->
+                    <!-- <img class="profile" src="assets/images/users/user-1.png" alt="" /> -->
+                    <div style="font-size: 25px;" class="name">Rob Kim, Mashable</div>
+                </div><!--//source-->    
+            </div><!--//item-->
+            
+            <div class="carousel-item item">
+               <blockquote class="review center-block">
+                    <i class="fas fa-quote-left" ></i>
+                    <p style="font-size: 20px;">A great way to Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                </blockquote><!--//review-->
+                <div class="source">
+                    <div class="rating">
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                        <i style="color: #01579b;" class="fas fa-star"></i>
+                    </div><!--//rating-->
+                    <!-- <img class="profile" src="assets/images/users/user-1.png" alt="" /> -->
+                    <div style="font-size: 25px;" class="name">Kevin Howell, Wired</div>
+                </div><!--//source-->    
+            </div><!--//item-->
+            
+        </div><!--//carousel-inner-->
+        
+        <!--//Indicators-->
+        <ol class="carousel-indicators">
+            <li data-bs-target="#reviews-carousel" data-bs-slide-to="0" class="active"></li>
+            <li data-bs-target="#reviews-carousel" data-bs-slide-to="1"></li>
+            <li data-bs-target="#reviews-carousel" data-bs-slide-to="2"></li>
+        </ol>
+        
+    </div><!--//reviews-carousel-->
+</section><!--//support-section-->
